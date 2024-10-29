@@ -1,6 +1,6 @@
-# Support Desk 🎟️
+# Complaint Registration System  🎟️
 
-Welcome to the Support Desk project! This application is designed to help users create and manage support tickets. It includes both a frontend built with React and Vite, and a backend built with Express and MongoDB.
+Welcome to the Complaint Registration System! This application is designed to help users create and manage support tickets. It includes both a frontend built with React and Vite, and a backend built with Express and MongoDB.
 
 ## Table of Contents 📚
 
